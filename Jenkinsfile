@@ -6,7 +6,7 @@ pipeline {
     }
     environment {
         GITNAME = 'choiseungyoung'            
-        GITEMAIL = 'choiseungyoung@naver.com' 
+        GITEMAIL = 'zx0430zx@naver.com' 
         GITWEBADD = 'https://github.com/choiseungyoung/simple_sb.git'
         GITSSHADD = 'git@github.com:choiseungyoung/dep.git'
         GITCREDENTIAL = 'git_cre'
